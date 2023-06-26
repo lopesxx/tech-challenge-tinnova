@@ -58,15 +58,15 @@ Repo: https://github.com/lopesxx/tech-challenge-tinnova/tree/main/desafios/desaf
 Criada aplicação que lista veículos, permite edição e busca (filtragem)
 
 ##### Como executar o projeto backend:
-  - na pasta do projeto execute o comando ```sh docker-compose ``` up no terminal
-  - em seguida execute o comando ```sh mvn clean package ```
-  - em seguida execute o comando  ```sh java -jar target/desafio-5-0.0.1-SNAPSHOT.jar ```
+  - na pasta do projeto execute o comando ``` docker-compose ``` up no terminal
+  - em seguida execute o comando ``` mvn clean package ```
+  - em seguida execute o comando  ``` java -jar target/desafio-5-0.0.1-SNAPSHOT.jar ```
 
 Esses comandos criaram um container para o banco e executaram a aplicação via terminal, para encerrar a aplicação basta fechar o terminal.
 
 ##### Como executar o projeto frontend:
-  - na pasta do projeto execute o comando ```sh npm i ``` no terminal
-  - em seguida execute o comando ```sh npm run dev ```
+  - na pasta do projeto execute o comando ``` npm i ``` no terminal
+  - em seguida execute o comando ``` npm run dev ```
   - a aplicação estará disponível no localhost:3000
     
 Esses comandos criaram um container para o banco e executaram a aplicação via terminal, para encerrar a aplicação basta fechar o terminal.
