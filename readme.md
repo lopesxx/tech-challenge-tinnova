@@ -1,5 +1,14 @@
 # Desafios de código:
-###
+
+### Introdução
+
+Todos os arquivos fazem parte desse repositório, basta executar o seguinte comando para clonar em sua máquina:
+
+```sh
+git clone https://github.com/lopesxx/tech-challenge-tinnova.git
+```
+
+Após clonar o repositório basta acessar o diretório de cada desafio e rodar o comando informado no respectivo readme.md de cada pasta.
 
 ### 1 - Votos em relação ao total de eleitores
 
@@ -16,7 +25,7 @@ Foi criada uma classe com 3 métodos que calculam...
 - o percentual de votos válidos em relação ao total de eleitores
 - o percentual de brancos em relação ao total de eleitores
 - o percentual de nulos em relação ao total de eleitores
-- 
+  
 Repo: https://github.com/lopesxx/tech-challenge-tinnova/tree/main/desafios/desafio-1
 
 ### 2 - Algoritmo Bubble Sort
